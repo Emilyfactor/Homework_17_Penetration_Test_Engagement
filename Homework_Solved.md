@@ -71,7 +71,7 @@ You've been provided full access to the network and are getting ping responses f
  
    - Run the command that starts Metasploit:
     
-     > Answer: 
+     > Answer: msfconsole
  
  
 4. Search for the Icecast module and load it for use.
