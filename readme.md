@@ -1,4 +1,4 @@
-## Homework 17: Penetration Test Engagement
+## Unit_17: Penetration Test Engagement
 
 In this activity, you will play the role of an independent penetration tester hired by GoodCorp Inc. to perform security tests against their CEO’s workstation.
 
